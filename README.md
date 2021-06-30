@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BZMplan
-- 👀 I’m interested in Gamming such game as Minecraft amd Mush Dash.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+你好,我是Mplan
+这是我的Github主页,我将会在这里发布一些有趣的项目
+希望你能经常来查看
+别忘了,我还有Bilibili账号,这是我的主页https://space.bilibili.com/108154765
 
 <!---
 BZMplan/BZMplan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
